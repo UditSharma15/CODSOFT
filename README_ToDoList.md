@@ -1,0 +1,1 @@
+Here is the to do list app created in python. You are having number of operating choice you gonna go with making a list ohf your works throughout the day. This will help you recognise your tasks in daily to day basis.
